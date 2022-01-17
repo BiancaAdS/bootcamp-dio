@@ -1,2 +1,2 @@
-# bootcamp-dio
-Repositório do Bootcamp Take Blip Web Developer da DIO.
+# Bootcamp Take Blip Web Developer 
+Repositório criado para os projetos realizados no Bootcamp.
